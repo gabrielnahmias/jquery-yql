@@ -1,3 +1,5 @@
+###The purpose of this fork is to merge the parameter parsing functionality of this script with my own security-enhanced version of this concept, yqlQuery (to be named something else afterwards as well).
+
 # jQuery YQL
 > Version 0.3.0
 
